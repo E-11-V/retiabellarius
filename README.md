@@ -2,7 +2,7 @@
 
 Disclaimer: this script was written by ChatGPT. I have no knowledge of python.
 
-Retiabellarius, a pun between rete (net/web) and tabellarius (archivist), is a script that, provided with a list of urls, download their first instance retrievable in the Wayback Machine.
+Retiabellarius, a pun between rete (net/web) and tabellarius (archivist), is a script that, provided with a list of urls, downloads their first instance retrievable in the Wayback Machine.
 
 This is particularly useful to quickly gather documentation provided throughout a given website, that might not be easily accessible anymore. 
 

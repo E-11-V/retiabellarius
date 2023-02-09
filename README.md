@@ -10,4 +10,4 @@ To generate the list of urls to feed retiabellarius with, type the first bits of
 
 Then click on URLs, filter them as PDF  or whatever it is you're looking for, and copy them. I copy them to excel, where I add the necessary format for python (urls must be inside quotation marks and separated by commas).
 
-From Excel, copy them into the script and runn it. 
+From Excel, copy them into the script and run it. Outcome files will appear in the same folder as the script.
